@@ -1,0 +1,21 @@
+{
+    "name": "turqos",
+    "displayName": "turqos",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Turqos",
+                "uiTheme": "vs",
+                "path": "./themes/Turqos-color-theme.json"
+            }
+        ]
+    }
+}

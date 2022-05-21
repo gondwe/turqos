@@ -1,15 +1,35 @@
 ## Turqos Light
 
-Some greenish theme.
-Here are some useful editor keyboard shortcuts:
+Turqoise Green Theme for VSCode.
 
-- Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-- Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-- Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+**Installation**
+Install the theme from here or follow the steps:
 
-### For more information
+- Launch Code.
+- Choose Extensions from the activity bar or serch command Intall Extentions or press cmd+shift+X.
+- Search for turqos.
+- Install extention Turqos.
+- Choose Preferenses: Color Theme or press cmd+K+T
 
-- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+***Configuration (optional) ***
+To change the color of brackes match border (purple by default), add to settings.json:
+```
+"workbench.colorCustomizations": {
+    "[Turqos ~ THEME]": {
+        "editorBracketMatch.border": "#a9a9a9"
+    }
+},
+```
 
-**Enjoy!**
+If you want more, open an issue and tell me what you'd like to change
+
+
+***UI helpers (optional)***
+Colorize editor's brackets in shades of green by Bracket Pair Colorizer 2 
+```
+"bracket-pair-colorizer-2.colors": [
+    "#d3d3d3",
+    "#c0c0c0",
+    "#a9a9a9"
+],
+```

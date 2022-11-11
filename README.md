@@ -1,4 +1,4 @@
-## Turqos Light
+## Turqos Dark
 
 Turqoise Green Theme for VSCode.
 

@@ -1303,7 +1303,9 @@
 				"meta.method.declaration.js",
 				"meta.objectliteral.js",
 				"meta.export.default.js",
-				"source.js"
+				"source.js",
+				"meta.paragraph.markdown",
+				"text.html.markdown"
 			],
 			"settings": {
 				"foreground": "#239FA3",
@@ -1335,8 +1337,11 @@
 				"keyword.control.elixir",
 				"keyword.control.js",
 				"string.quoted.double.json.comments",
+				"string.quoted.double.json",
 				"variable.other.object.ts",
-				"variable.other.object.js"
+				"variable.other.object.js",
+				"text.html.markdown",
+				"meta.paragraph.markdown"
 			],
 			"settings": {
 				"foreground": "#847950"
@@ -1357,10 +1362,17 @@
 				"meta.embedded.line.elixir",
 				"meta.embedded.line.js",
 				"punctuation.definition.string.begin.elixir",
+				"punctuation.definition.string.end.elixir",
 				"punctuation.definition.string.begin.js",
+				"punctuation.definition.string.end.js",
 				"punctuation.section.regexp.begin.elixir",
+				"punctuation.section.regexp.end.elixir",
 				"punctuation.section.regexp.begin.js",
-				"string.regexp"
+				"punctuation.support.type.property-name.begin.json",
+				"punctuation.support.type.property-name.end.json",
+				"string.regexp",
+				"markup.fenced_code.block.markdown",
+				"source.json"
 			],
 			"settings": {
 				"foreground": "#7CD07B"
@@ -1380,7 +1392,9 @@
 		{
 			"scope": [
 				"constant.language.symbol.elixir",
-				"constant.language.symbol.js"
+				"constant.language.symbol.js",
+				"meta.paragraph.markdown",
+				"markup.list.unnumbered.markdown"
 			],
 			"settings": {
 				"foreground": "#989E8C"

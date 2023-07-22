@@ -1,7 +1,7 @@
 {
   "name": "turqos-dark",
   "displayName": "turqos-dark",
-  "description": "Turquoise Green Theme for VSCode",
+  "description": "Green Theme",
   "version": "0.0.4",
   "engines": {
     "vscode": "^1.66.0"

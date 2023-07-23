@@ -1,25 +1,25 @@
 {
-    "name": "turqos",
-    "displayName": "turqos",
-    "description": "Turquoise Green Theme for VSCode",
-    "version": "0.0.4",
-    "engines": {
-        "vscode": "^1.66.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "repository": {
-        "url": "https://github.com/gondwe/turqos"
-    },
-    "publisher": "gondwe",
-    "contributes": {
-        "themes": [
-            {
-                "label": "Turqos",
-                "uiTheme": "vs",
-                "path": "./themes/Turqos-color-theme.json"
-            }
-        ]
-    }
+  "name": "turqos-lite",
+  "displayName": "turqos-light",
+  "description": "Light Green Theme",
+  "version": "0.0.5",
+  "engines": {
+    "vscode": "^1.66.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "url": "https://github.com/gondwe/turqos"
+  },
+  "publisher": "turqos",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Turqos Light",
+        "uiTheme": "vs",
+        "path": "./themes/Turqos-color-theme.json"
+      }
+    ]
+  }
 }

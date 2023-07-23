@@ -17,7 +17,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Turqos",
+        "label": "Turqos Dark",
         "uiTheme": "vs",
         "path": "./themes/Turqos-color-theme.json"
       }

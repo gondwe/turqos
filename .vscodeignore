@@ -1,4 +1,12 @@
 .vscode/**
 .vscode-test/**
+.claude/**
 .gitignore
 vsc-extension-quickstart.md
+THEME_FIXES.md
+screenshots/**
+node_modules/**
+package-lock.json
+*.html
+*.js
+*.mjs

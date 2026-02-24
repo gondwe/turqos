@@ -1,8 +1,8 @@
 {
   "name": "turqos-dark",
-  "displayName": "turqos-dark",
-  "description": "Green Theme",
-  "version": "0.1.0",
+  "displayName": "Turqos Dark",
+  "description": "A deep matrix-green dark theme with yellow and green accents — punchy terminal colors, easy on the eyes.",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.66.0"
   },
@@ -10,6 +10,18 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "dark",
+    "green",
+    "matrix",
+    "turquoise",
+    "mint"
+  ],
+  "galleryBanner": {
+    "color": "#071a12",
+    "theme": "dark"
+  },
   "repository": {
     "url": "https://github.com/gondwe/turqos/tree/dark"
   },

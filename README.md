@@ -1,35 +1,35 @@
-## Turqos Dark
+# Turqos Dark
 
-Turqoise Green Theme for VSCode.
+A deep matrix-green dark theme for VS Code with yellow and green accents.
 
-**Installation**
-Install the theme from here or follow the steps:
+![Turqos Dark Screenshot](screenshots/dark-overview.png)
 
-- Launch Code.
-- Choose Extensions from the activity bar or serch command Intall Extentions or press cmd+shift+X.
-- Search for turqos.
-- Install extention Turqos.
-- Choose Preferenses: Color Theme or press cmd+K+T
+## Features
 
-***Configuration (optional) ***
-To change the color of brackes match border (purple by default), add to settings.json:
-```
-"workbench.colorCustomizations": {
-    "[Turqos ~ THEME]": {
-        "editorBracketMatch.border": "#a9a9a9"
-    }
-},
-```
+- **Deep dark backgrounds** — editor, sidebar, terminal all in black-green tones
+- **Yellow accents** — cursor, active line number, active tab, badges, find matches
+- **Green accents** — terminal text, progress bar, activity bar, links
+- **Punchy ANSI terminal colors** — matrix-inspired palette
+- **GitLens-aware** — tuned annotation colors for readability
 
-If you want more, open an issue and tell me what you'd like to change
+## Screenshots
 
+![JavaScript](screenshots/dark-js.png)
+![Python](screenshots/dark-python.png)
+![Terminal](screenshots/dark-terminal.png)
 
-***UI helpers (optional)***
-Colorize editor's brackets in shades of green by Bracket Pair Colorizer 2 
-```
-"bracket-pair-colorizer-2.colors": [
-    "#d3d3d3",
-    "#c0c0c0",
-    "#a9a9a9"
-],
-```
+## Installation
+
+1. Open VS Code
+2. Press `Cmd+Shift+X` to open Extensions
+3. Search for **Turqos Dark**
+4. Click Install
+5. Press `Cmd+K Cmd+T` and select **Turqos Dark**
+
+## Also available
+
+- [Turqos Light](https://marketplace.visualstudio.com/items?itemName=turqos.turqos-lite) — a turquoise/mint light theme
+
+## Feedback
+
+Found a bug or want a tweak? [Open an issue](https://github.com/gondwe/turqos/issues).

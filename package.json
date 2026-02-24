@@ -1,8 +1,8 @@
 {
   "name": "turqos-lite",
-  "displayName": "turqos-light",
-  "description": "Light Green Theme",
-  "version": "0.0.7",
+  "displayName": "Turqos Light",
+  "description": "A turquoise and mint light theme with warm syntax colors — crisp, readable, easy on the eyes.",
+  "version": "0.0.8",
   "engines": {
     "vscode": "^1.66.0"
   },
@@ -10,6 +10,18 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "light",
+    "green",
+    "turquoise",
+    "mint",
+    "pastel"
+  ],
+  "galleryBanner": {
+    "color": "#6deec1",
+    "theme": "light"
+  },
   "repository": {
     "url": "https://github.com/gondwe/turqos"
   },

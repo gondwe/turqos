@@ -2,7 +2,7 @@
   "name": "turqos-dark",
   "displayName": "turqos-dark",
   "description": "Green Theme",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.66.0"
   },
@@ -18,7 +18,7 @@
     "themes": [
       {
         "label": "Turqos Dark",
-        "uiTheme": "vs",
+        "uiTheme": "vs-dark",
         "path": "./themes/Turqos-color-theme.json"
       }
     ]

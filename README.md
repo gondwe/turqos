@@ -12,12 +12,6 @@ A deep matrix-green dark theme for VS Code with yellow and green accents.
 - **Punchy ANSI terminal colors** — matrix-inspired palette
 - **GitLens-aware** — tuned annotation colors for readability
 
-## Screenshots
-
-![JavaScript](screenshots/dark-js.png)
-![Python](screenshots/dark-python.png)
-![Terminal](screenshots/dark-terminal.png)
-
 ## Installation
 
 1. Open VS Code

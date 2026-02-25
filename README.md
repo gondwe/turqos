@@ -12,12 +12,6 @@ A turquoise and mint light theme for VS Code with warm syntax colors.
 - **Teal highlights** — selections, word highlights, bracket matches all mint-aligned
 - **GitLens-aware** — tuned annotation colors for mint backgrounds
 
-## Screenshots
-
-![JavaScript](screenshots/light-js.png)
-![Elixir](screenshots/light-elixir.png)
-![Terminal](screenshots/light-terminal.png)
-
 ## Installation
 
 1. Open VS Code
